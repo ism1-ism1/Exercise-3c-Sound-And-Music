@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-The second exercise adding "juicy" features to a simple brick-breaker game.
+The second exercise adding "juicy" features to a simple brick-breaker game. Added self made music and sound effects along with comet trail.
 
 ## To play
 
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Ian Smith
